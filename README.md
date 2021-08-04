@@ -1,3 +1,3 @@
-# Gender Prediction using ML Algorithms on Twitter data
+#  Analyzing Twitter data using Machine Learning Algorithms
 
 ![](img/reading-data.jpg)
